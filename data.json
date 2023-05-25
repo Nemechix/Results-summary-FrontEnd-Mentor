@@ -2,21 +2,29 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "./assets/images/icon-reaction.svg"
+    "icon": "./assets/images/icon-reaction.svg",
+    "background": "hsla(0, 100%, 67%, 20%)",
+    "letterColor": "hsla(0, 100%, 67%, 100%)"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "./assets/images/icon-memory.svg"
+    "icon": "./assets/images/icon-memory.svg",
+    "background": "hsla(39, 100%, 56%, 20%)",
+    "letterColor": "hsla(39, 100%, 56%, 100%)"
   },
   {
     "category": "Verbal",
     "score": 61,
-    "icon": "./assets/images/icon-verbal.svg"
+    "icon": "./assets/images/icon-verbal.svg",
+    "background": "hsla(166, 100%, 37%, 20%)",
+    "letterColor": "hsla(166, 100%, 37%, 100%)"
   },
   {
     "category": "Visual",
     "score": 72,
-    "icon": "./assets/images/icon-visual.svg"
+    "icon": "./assets/images/icon-visual.svg",
+    "background": "hsla(234, 85%, 45%, 20%)",
+    "letterColor": "hsla(234, 85%, 45%, 100%)"
   }
 ]
